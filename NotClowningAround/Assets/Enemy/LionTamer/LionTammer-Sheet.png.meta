@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 18c32eafa88588e4d887f80b47356d3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9103906745016730072
+    second: LionTammer-Sheet_0
+  - first:
+      213: 5870786921522131912
+    second: LionTammer-Sheet_1
+  - first:
+      213: -5406052036433905806
+    second: LionTammer-Sheet_2
+  - first:
+      213: -1332075195893326523
+    second: LionTammer-Sheet_3
+  - first:
+      213: -738239516834557984
+    second: LionTammer-Sheet_4
+  - first:
+      213: 2594674050259864376
+    second: LionTammer-Sheet_5
+  - first:
+      213: -1688213556125841774
+    second: LionTammer-Sheet_6
+  - first:
+      213: 5397350513098812548
+    second: LionTammer-Sheet_7
+  - first:
+      213: -3653649752722788897
+    second: LionTammer-Sheet_8
+  - first:
+      213: -3937652454464314999
+    second: LionTammer-Sheet_9
+  - first:
+      213: -647675111599883856
+    second: LionTammer-Sheet_10
+  - first:
+      213: 5733682209416729601
+    second: LionTammer-Sheet_11
+  - first:
+      213: -1366782255760175995
+    second: LionTammer-Sheet_12
+  - first:
+      213: -7955831161425157981
+    second: LionTammer-Sheet_13
+  - first:
+      213: 2113837476964422149
+    second: LionTammer-Sheet_14
+  - first:
+      213: 2254775052930452384
+    second: LionTammer-Sheet_15
+  - first:
+      213: 3741064157371166165
+    second: LionTammer-Sheet_16
+  - first:
+      213: 3218934150470512379
+    second: LionTammer-Sheet_17
+  - first:
+      213: 5647301312740140264
+    second: LionTammer-Sheet_18
+  - first:
+      213: 1606447589119216043
+    second: LionTammer-Sheet_19
+  - first:
+      213: 4316766030306184089
+    second: LionTammer-Sheet_20
+  - first:
+      213: -3431282249360857146
+    second: LionTammer-Sheet_21
+  - first:
+      213: 8671296941226798513
+    second: LionTammer-Sheet_22
+  - first:
+      213: 2258713320534097229
+    second: LionTammer-Sheet_23
+  - first:
+      213: 85133995267207532
+    second: LionTammer-Sheet_24
+  - first:
+      213: -4978167604005794740
+    second: LionTammer-Sheet_25
+  - first:
+      213: 1122220044324085488
+    second: LionTammer-Sheet_26
+  - first:
+      213: 6741338656829268595
+    second: LionTammer-Sheet_27
+  - first:
+      213: 1388095247184330332
+    second: LionTammer-Sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LionTammer-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1410533f2975e70800000000000000
+      internalID: 9103906745016730072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 300
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f551b999397150800000000000000
+      internalID: 5870786921522131912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 300
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277741bb058d9f4b0800000000000000
+      internalID: -5406052036433905806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 300
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d5baebaa4838de0800000000000000
+      internalID: -1332075195893326523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef8bef121f31c5f0800000000000000
+      internalID: -738239516834557984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bc9a13d42220420800000000000000
+      internalID: 2594674050259864376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296ce1a17b24298e0800000000000000
+      internalID: -1688213556125841774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ce68df1bd37ea40800000000000000
+      internalID: 5397350513098812548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda34368e0ab4dc0800000000000000
+      internalID: -3653649752722788897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a5ba84f5aa59c0800000000000000
+      internalID: -3937652454464314999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b93a33eaeef207f0800000000000000
+      internalID: -647675111599883856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d2435791229f40800000000000000
+      internalID: 5733682209416729601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c8b18a7c6380de0800000000000000
+      internalID: -1366782255760175995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a02542e5b5379190800000000000000
+      internalID: -7955831161425157981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 200
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5025f575cfbd55d10800000000000000
+      internalID: 2113837476964422149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab055ed6f19a4f10800000000000000
+      internalID: 2254775052930452384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 100
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dded06b70eeae330800000000000000
+      internalID: 3741064157371166165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 100
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe2b222e83fbac20800000000000000
+      internalID: 3218934150470512379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 100
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4297d8f9e3f5e40800000000000000
+      internalID: 5647301312740140264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 100
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9cbbb229f3b4610800000000000000
+      internalID: 1606447589119216043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 100
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b8fd655db38eb30800000000000000
+      internalID: 4316766030306184089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 100
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c72eb259f2a160d0800000000000000
+      internalID: -3431282249360857146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd21c320a2a65870800000000000000
+      internalID: 8671296941226798513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4db0ef3ccf885f10800000000000000
+      internalID: 2258713320534097229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61363aeae47e2100800000000000000
+      internalID: 85133995267207532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c80ea80fef9eab0800000000000000
+      internalID: -4978167604005794740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe92cd3f2de29f00800000000000000
+      internalID: 1122220044324085488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372eaee8acb0e8d50800000000000000
+      internalID: 6741338656829268595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LionTammer-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 245
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e74dad541834310800000000000000
+      internalID: 1388095247184330332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 16ce5f07032fed4438f5df6480f73215
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":4.0},"gridSpriteSize":{"x":245.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LionTammer-Sheet_0: 9103906745016730072
+      LionTammer-Sheet_1: 5870786921522131912
+      LionTammer-Sheet_10: -647675111599883856
+      LionTammer-Sheet_11: 5733682209416729601
+      LionTammer-Sheet_12: -1366782255760175995
+      LionTammer-Sheet_13: -7955831161425157981
+      LionTammer-Sheet_14: 2113837476964422149
+      LionTammer-Sheet_15: 2254775052930452384
+      LionTammer-Sheet_16: 3741064157371166165
+      LionTammer-Sheet_17: 3218934150470512379
+      LionTammer-Sheet_18: 5647301312740140264
+      LionTammer-Sheet_19: 1606447589119216043
+      LionTammer-Sheet_2: -5406052036433905806
+      LionTammer-Sheet_20: 4316766030306184089
+      LionTammer-Sheet_21: -3431282249360857146
+      LionTammer-Sheet_22: 8671296941226798513
+      LionTammer-Sheet_23: 2258713320534097229
+      LionTammer-Sheet_24: 85133995267207532
+      LionTammer-Sheet_25: -4978167604005794740
+      LionTammer-Sheet_26: 1122220044324085488
+      LionTammer-Sheet_27: 6741338656829268595
+      LionTammer-Sheet_28: 1388095247184330332
+      LionTammer-Sheet_3: -1332075195893326523
+      LionTammer-Sheet_4: -738239516834557984
+      LionTammer-Sheet_5: 2594674050259864376
+      LionTammer-Sheet_6: -1688213556125841774
+      LionTammer-Sheet_7: 5397350513098812548
+      LionTammer-Sheet_8: -3653649752722788897
+      LionTammer-Sheet_9: -3937652454464314999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

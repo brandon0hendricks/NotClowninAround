@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 33b52104083bcf140af7fc6b141825d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7192487348344133187
+    second: RingMaster2-Sheet_0
+  - first:
+      213: 1483334208038816268
+    second: RingMaster2-Sheet_1
+  - first:
+      213: 8722197082280050282
+    second: RingMaster2-Sheet_2
+  - first:
+      213: 5599319468300485260
+    second: RingMaster2-Sheet_3
+  - first:
+      213: 1433060081898754789
+    second: RingMaster2-Sheet_4
+  - first:
+      213: 8290195633590128629
+    second: RingMaster2-Sheet_5
+  - first:
+      213: 8001070146620593618
+    second: RingMaster2-Sheet_6
+  - first:
+      213: 8004355690605679110
+    second: RingMaster2-Sheet_7
+  - first:
+      213: -1953717314630654484
+    second: RingMaster2-Sheet_8
+  - first:
+      213: -3502088273123167360
+    second: RingMaster2-Sheet_9
+  - first:
+      213: -7963705948413879065
+    second: RingMaster2-Sheet_10
+  - first:
+      213: -4986781360902071219
+    second: RingMaster2-Sheet_11
+  - first:
+      213: -7159896776556225872
+    second: RingMaster2-Sheet_12
+  - first:
+      213: 9221597843039226905
+    second: RingMaster2-Sheet_13
+  - first:
+      213: 1073601253277452921
+    second: RingMaster2-Sheet_14
+  - first:
+      213: -983134045280277852
+    second: RingMaster2-Sheet_15
+  - first:
+      213: -7984654411583763492
+    second: RingMaster2-Sheet_16
+  - first:
+      213: -4941805648322634157
+    second: RingMaster2-Sheet_17
+  - first:
+      213: 5496107575374915389
+    second: RingMaster2-Sheet_18
+  - first:
+      213: 8303934020338839859
+    second: RingMaster2-Sheet_19
+  - first:
+      213: -4584136118682860121
+    second: RingMaster2-Sheet_20
+  - first:
+      213: 6217706736501191546
+    second: RingMaster2-Sheet_21
+  - first:
+      213: -2303740675876982658
+    second: RingMaster2-Sheet_22
+  - first:
+      213: 4645218090971704875
+    second: RingMaster2-Sheet_23
+  - first:
+      213: -9113020763943201516
+    second: RingMaster2-Sheet_24
+  - first:
+      213: -3823241108490672194
+    second: RingMaster2-Sheet_25
+  - first:
+      213: 4738511186295383109
+    second: RingMaster2-Sheet_26
+  - first:
+      213: 4277365987012575590
+    second: RingMaster2-Sheet_27
+  - first:
+      213: -2305466226564941417
+    second: RingMaster2-Sheet_28
+  - first:
+      213: -341418970310583003
+    second: RingMaster2-Sheet_29
+  - first:
+      213: -5108829580538144318
+    second: RingMaster2-Sheet_30
+  - first:
+      213: 5781916135433386889
+    second: RingMaster2-Sheet_31
+  - first:
+      213: 4781537922043259199
+    second: RingMaster2-Sheet_32
+  - first:
+      213: -7350866445190748942
+    second: RingMaster2-Sheet_33
+  - first:
+      213: 2205601715436155534
+    second: RingMaster2-Sheet_34
+  - first:
+      213: 1309585009339334537
+    second: RingMaster2-Sheet_35
+  - first:
+      213: 5215932937699694188
+    second: RingMaster2-Sheet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3461b89c229d0d360800000000000000
+      internalID: 7192487348344133187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 424
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ac6596a9cd59410800000000000000
+      internalID: 1483334208038816268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 424
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e304eb8087b0970800000000000000
+      internalID: 8722197082280050282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 424
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82caf3d367c4bd40800000000000000
+      internalID: 5599319468300485260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 424
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21e534d8043e310800000000000000
+      internalID: 1433060081898754789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 424
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff42a26101bc0370800000000000000
+      internalID: 8290195633590128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d59d4828e2890f60800000000000000
+      internalID: 8001070146620593618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6029d6a771f251f60800000000000000
+      internalID: 8004355690605679110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5e8ed147003e4e0800000000000000
+      internalID: -1953717314630654484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083be6c3545166fc0800000000000000
+      internalID: -3502088273123167360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec102922ab3b7190800000000000000
+      internalID: -7963705948413879065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c94eaf5c46bcab0800000000000000
+      internalID: -4986781360902071219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad6e401dfe2ac90800000000000000
+      internalID: -7159896776556225872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8cdf4162b9ff70800000000000000
+      internalID: 9221597843039226905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a4404d6a236ee00800000000000000
+      internalID: 1073601253277452921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aae9707bc43b52f0800000000000000
+      internalID: -983134045280277852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb4b4ffd1fc03190800000000000000
+      internalID: -7984654411583763492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ed5b612fd2b6bb0800000000000000
+      internalID: -4941805648322634157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d372e8d58b8164c40800000000000000
+      internalID: 5496107575374915389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 318
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331f390deff7d3370800000000000000
+      internalID: 8303934020338839859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5ced3ec70e160c0800000000000000
+      internalID: -4584136118682860121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 212
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73f4b2855bb94650800000000000000
+      internalID: 6217706736501191546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 212
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70fbbf9f087700e0800000000000000
+      internalID: -2303740675876982658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 212
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e26980e31277040800000000000000
+      internalID: 4645218090971704875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 212
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4151866e5eb088180800000000000000
+      internalID: -9113020763943201516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb72ebdd77e11fac0800000000000000
+      internalID: -3823241108490672194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 106
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e95771d292c140800000000000000
+      internalID: 4738511186295383109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 106
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610936e3b14c5b30800000000000000
+      internalID: 4277365987012575590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 106
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799bfeb8ea65100e0800000000000000
+      internalID: -2305466226564941417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 106
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dde036149034bf0800000000000000
+      internalID: -341418970310583003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c91402709ac919b0800000000000000
+      internalID: -5108829580538144318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3b9d571e7d3050800000000000000
+      internalID: 5781916135433386889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39a27b086f6b5240800000000000000
+      internalID: 4781537922043259199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f421172ae97cf990800000000000000
+      internalID: -7350866445190748942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RingMaster2-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82709c031fdb9e10800000000000000
+      internalID: 2205601715436155534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 90886bcc549719048aa764e383ab1639
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":14.0,"y":5.0},"gridSpriteSize":{"x":144.0,"y":106.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      RingMaster2-Sheet_0: 7192487348344133187
+      RingMaster2-Sheet_1: 1483334208038816268
+      RingMaster2-Sheet_10: -7963705948413879065
+      RingMaster2-Sheet_11: -4986781360902071219
+      RingMaster2-Sheet_12: -7159896776556225872
+      RingMaster2-Sheet_13: 9221597843039226905
+      RingMaster2-Sheet_14: 1073601253277452921
+      RingMaster2-Sheet_15: -983134045280277852
+      RingMaster2-Sheet_16: -7984654411583763492
+      RingMaster2-Sheet_17: -4941805648322634157
+      RingMaster2-Sheet_18: 5496107575374915389
+      RingMaster2-Sheet_19: 8303934020338839859
+      RingMaster2-Sheet_2: 8722197082280050282
+      RingMaster2-Sheet_20: -4584136118682860121
+      RingMaster2-Sheet_21: 6217706736501191546
+      RingMaster2-Sheet_22: -2303740675876982658
+      RingMaster2-Sheet_23: 4645218090971704875
+      RingMaster2-Sheet_24: -9113020763943201516
+      RingMaster2-Sheet_25: -3823241108490672194
+      RingMaster2-Sheet_26: 4738511186295383109
+      RingMaster2-Sheet_27: 4277365987012575590
+      RingMaster2-Sheet_28: -2305466226564941417
+      RingMaster2-Sheet_29: -341418970310583003
+      RingMaster2-Sheet_3: 5599319468300485260
+      RingMaster2-Sheet_30: -5108829580538144318
+      RingMaster2-Sheet_31: 5781916135433386889
+      RingMaster2-Sheet_32: 4781537922043259199
+      RingMaster2-Sheet_33: -7350866445190748942
+      RingMaster2-Sheet_34: 2205601715436155534
+      RingMaster2-Sheet_4: 1433060081898754789
+      RingMaster2-Sheet_5: 8290195633590128629
+      RingMaster2-Sheet_6: 8001070146620593618
+      RingMaster2-Sheet_7: 8004355690605679110
+      RingMaster2-Sheet_8: -1953717314630654484
+      RingMaster2-Sheet_9: -3502088273123167360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e0be705a9d3eb44f9b0711eff91b987, type: 3}
+  m_Name: EndGame
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueString
+  DialogueLines:
+  - 'You defeat the Ringleader.
+
+    You grab his paycheck...'
+  - 'You take it to a bank.
+
+    But as soon as you walk in...'
+  - "You're tackled by the police. \nYou just *Redacted* a bunch\nof people, what
+    did you expect?"
+  - 'Thank You For Playing
+
+    - IronFeather'
+  - 'Credits
+
+    Brandon hendricks - Pixel artist
+
+    "I hate this game with a
+    passion"'
+  - 'Andre Godoi - SFX, Musician
+
+    "A god of all things game dev music" -Everyone
+    else on the team'
+  - 'Ethan Lemons -  lead designer/Programmer
+
+    "it''s good enough"'
+  - "Andrew Warejko -  Programmer\n\"Although the \u201Cright\u201D thing is subjective\""

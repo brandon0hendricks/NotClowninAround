@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: c9d0d66f5e789b34c8adb70941099d3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7783982957430199554
+    second: ConsesionMan-Sheet_0
+  - first:
+      213: -1942931608656725914
+    second: ConsesionMan-Sheet_1
+  - first:
+      213: -1526607665557961733
+    second: ConsesionMan-Sheet_2
+  - first:
+      213: 7604473893183622929
+    second: ConsesionMan-Sheet_3
+  - first:
+      213: -3643503429958281164
+    second: ConsesionMan-Sheet_4
+  - first:
+      213: -5109190293089210614
+    second: ConsesionMan-Sheet_5
+  - first:
+      213: 4519758190154179799
+    second: ConsesionMan-Sheet_6
+  - first:
+      213: 4129952225672624501
+    second: ConsesionMan-Sheet_7
+  - first:
+      213: -574314920762088832
+    second: ConsesionMan-Sheet_8
+  - first:
+      213: 5411567052312510061
+    second: ConsesionMan-Sheet_9
+  - first:
+      213: -6660222968052264734
+    second: ConsesionMan-Sheet_10
+  - first:
+      213: 1095121748635670100
+    second: ConsesionMan-Sheet_11
+  - first:
+      213: 3133561744428263012
+    second: ConsesionMan-Sheet_12
+  - first:
+      213: 417739960875807597
+    second: ConsesionMan-Sheet_13
+  - first:
+      213: 4767072161863223336
+    second: ConsesionMan-Sheet_14
+  - first:
+      213: -3684677244687744792
+    second: ConsesionMan-Sheet_15
+  - first:
+      213: 8325035783805919358
+    second: ConsesionMan-Sheet_16
+  - first:
+      213: -8791710230694840872
+    second: ConsesionMan-Sheet_17
+  - first:
+      213: -2360491197669953278
+    second: ConsesionMan-Sheet_18
+  - first:
+      213: 3042661233757988143
+    second: ConsesionMan-Sheet_19
+  - first:
+      213: -8903258415398184042
+    second: ConsesionMan-Sheet_20
+  - first:
+      213: -4972394167330134906
+    second: ConsesionMan-Sheet_21
+  - first:
+      213: -5870854611122344025
+    second: ConsesionMan-Sheet_22
+  - first:
+      213: -1529655335412894674
+    second: ConsesionMan-Sheet_23
+  - first:
+      213: 2599038403501400603
+    second: ConsesionMan-Sheet_24
+  - first:
+      213: 6485095286879236820
+    second: ConsesionMan-Sheet_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205525b2243460c60800000000000000
+      internalID: 7783982957430199554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668332bfef15905e0800000000000000
+      internalID: -1942931608656725914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3870f9a6660dae0800000000000000
+      internalID: -1526607665557961733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f01f237b4888960800000000000000
+      internalID: 7604473893183622929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385b6f3fecaf6dc0800000000000000
+      internalID: -3643503429958281164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2b828f728819b0800000000000000
+      internalID: -5109190293089210614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46dc2902869be30800000000000000
+      internalID: 4519758190154179799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579fc86faa9805930800000000000000
+      internalID: 4129952225672624501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e4c65f9f9708f0800000000000000
+      internalID: -574314920762088832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e7b47ff8fb91b40800000000000000
+      internalID: 5411567052312510061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0d8587f722293a0800000000000000
+      internalID: -6660222968052264734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456db3d9d67a23f00800000000000000
+      internalID: 1095121748635670100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 180
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4666662edc5ac7b20800000000000000
+      internalID: 3133561744428263012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63fc78f74c1cc500800000000000000
+      internalID: 417739960875807597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828c28acfda082240800000000000000
+      internalID: 4767072161863223336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e00c6671956ddcc0800000000000000
+      internalID: -3684677244687744792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70ea2cffe7788370800000000000000
+      internalID: 8325035783805919358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5344b20229df580800000000000000
+      internalID: -8791710230694840872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201327b13c9dd3fd0800000000000000
+      internalID: -2360491197669953278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252ff97544b93a20800000000000000
+      internalID: 3042661233757988143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 90
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1fa684a5417480800000000000000
+      internalID: -8903258415398184042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684201589d18efab0800000000000000
+      internalID: -4972394167330134906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afa61816d8868ea0800000000000000
+      internalID: -5870854611122344025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24feefa39295cae0800000000000000
+      internalID: -1529655335412894674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12ac4e58a3a11420800000000000000
+      internalID: 2599038403501400603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsesionMan-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d23ffccdcfaff950800000000000000
+      internalID: 6485095286879236820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e7df4533ace7ef5489907c09a56f2bfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":4.0},"gridSpriteSize":{"x":96.0,"y":90.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ConsesionMan-Sheet_0: 7783982957430199554
+      ConsesionMan-Sheet_1: -1942931608656725914
+      ConsesionMan-Sheet_10: -6660222968052264734
+      ConsesionMan-Sheet_11: 1095121748635670100
+      ConsesionMan-Sheet_12: 3133561744428263012
+      ConsesionMan-Sheet_13: 417739960875807597
+      ConsesionMan-Sheet_14: 4767072161863223336
+      ConsesionMan-Sheet_15: -3684677244687744792
+      ConsesionMan-Sheet_16: 8325035783805919358
+      ConsesionMan-Sheet_17: -8791710230694840872
+      ConsesionMan-Sheet_18: -2360491197669953278
+      ConsesionMan-Sheet_19: 3042661233757988143
+      ConsesionMan-Sheet_2: -1526607665557961733
+      ConsesionMan-Sheet_20: -8903258415398184042
+      ConsesionMan-Sheet_21: -4972394167330134906
+      ConsesionMan-Sheet_22: -5870854611122344025
+      ConsesionMan-Sheet_23: -1529655335412894674
+      ConsesionMan-Sheet_24: 2599038403501400603
+      ConsesionMan-Sheet_25: 6485095286879236820
+      ConsesionMan-Sheet_3: 7604473893183622929
+      ConsesionMan-Sheet_4: -3643503429958281164
+      ConsesionMan-Sheet_5: -5109190293089210614
+      ConsesionMan-Sheet_6: 4519758190154179799
+      ConsesionMan-Sheet_7: 4129952225672624501
+      ConsesionMan-Sheet_8: -574314920762088832
+      ConsesionMan-Sheet_9: 5411567052312510061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
